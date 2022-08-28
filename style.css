@@ -45,13 +45,13 @@ body{
 
 .card_img{
     border-radius: 10px 10px 0 0;
-    background-image: url("images/image-product-mobile.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 238px;
     width: 100%;
 }
 
+.card_img img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
 
 .card_content{
     padding: 1.5rem;
@@ -156,9 +156,6 @@ body{
         width: 50%;
     }
     .card_img{
-        background-image: url("images/image-product-desktop.jpg");
-        border-radius: 10px 0 0 10px;
-        height: 100%;
         width: 50%;
     }
     .card_img img{
