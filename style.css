@@ -20,12 +20,16 @@
 
 body{
     background-color: var(--main-bg-color);
-    width: 100vw;
     display: flex;
     flex-direction: column;
-    
-    gap: 4rem;
     padding: 1rem;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 4rem;
 }
 
 .attribution{
