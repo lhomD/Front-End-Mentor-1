@@ -7,3 +7,4 @@ Thanks!
 Feel free to try it at [Netlify.com](https://legendary-chimera-96c039.netlify.app/)
 
 ![Desktop](./desktop.png)
+![Mobile](./mobile.png)
