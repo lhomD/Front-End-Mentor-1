@@ -1,10 +1,10 @@
-# Frontend Mentor - Product preview card component
+## Frontend Mentor - Product preview card component
 
-![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)
+![Desktop](./desktop.png)
+![Mobile](./mobile.png)
 
 My first challenge from Frontend Mentor https://www.frontendmentor.io. The challenge was to make a product preview card component. It went very well I think. Feel free to try my work. I welcome constructive criticism. So don't hesitate if you have any improvement suggestions regarding this project.
 Had some trouble to use html srcset. I solved this by using the images as background images, not by using the img tags with srcset.
 Thanks!
 
-Feel free to try it at Netlify.com
-https://legendary-chimera-96c039.netlify.app/
+Feel free to try it at [Netlify.com](https://legendary-chimera-96c039.netlify.app/)
